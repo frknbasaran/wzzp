@@ -1,0 +1,8 @@
+{
+  "name": "wzzp",
+  "desc": "music app",
+  "dependencies": {
+    "express": "^4.11.1",
+    "phantom": "^0.7.2"
+  }
+}

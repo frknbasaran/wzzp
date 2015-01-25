@@ -1,0 +1,115 @@
+#player {display:none;}
+
+#music {
+	color: #34495e;
+	cursor: pointer;
+}
+
+body {
+	background-color: #ececec;
+}
+
+.song-icon {
+	width: 24px;
+	height: 24px;
+	float:left;
+}
+
+.music {
+	width: 100%;
+	float:left;
+	background-color: white;
+	border-top:1px solid #DBDBDB;
+	border-top:1px solid #DBDBDB;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.music:hover {
+	cursor:pointer;
+}
+
+.mid {
+	margin-top: 30px;
+}
+
+.title {
+	margin-left:10px; 
+}
+
+.playButton, .pauseButton {
+	margin-top: 10px;
+}
+
+#loader {
+	text-align: center;
+	width: 150px;
+	height: 100px;
+	background-color: white;
+	border:none;
+}
+
+.active {
+	background-color: #f1c40f;
+	color:white;
+} 
+
+.player-btn {
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+.song-info {
+	margin-left: 30px;
+}
+
+.playerButtons {
+	text-align: center;
+	background-color: #e74c3c;
+}
+
+.buttons {
+	margin-top: 5px;
+	text-align: center;
+}
+
+
+.brand {
+	margin-left: 10px; 
+}
+
+.promo-img {
+	width: 45px;
+	height: 45px;
+}
+
+.promo {
+	text-align: center;
+}
+
+.big-search {
+	margin-top: 10px;
+}
+
+.promo_alt {
+	float:left;
+}
+
+.current-song-info {
+	margin-top: 13px;
+	width: 300px;
+}
+
+.mainNavbar {
+	border-radius: 0px;
+	background-color: #f1c40f;
+	-webkit-box-shadow: 0px 3px 12px 0px rgba(50, 50, 50, 1);
+	-moz-box-shadow:    0px 3px 12px 0px rgba(50, 50, 50, 1);
+	box-shadow:         0px 3px 12px 0px rgba(50, 50, 50, 1);
+}
+
+.mainLogo {
+	margin-top: -11px;
+	width: 48px;
+	width: 48px;
+}
