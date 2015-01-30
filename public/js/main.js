@@ -12,7 +12,9 @@ $(function() {
     });
 
     $('body').on('keypress', '#key', function(e) {
+	// when pressed enter key
         if (e.which == 13) {
+            // send xml http request
             sendAjax();
         }
     });
