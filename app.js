@@ -1,4 +1,4 @@
-// external modules
+// require external modules
 var phantom = require('phantom');
 var express = require('express');
 var mongoose = require('mongoose');
